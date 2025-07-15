@@ -77,7 +77,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <img 
-              src="/Asset 1.png" 
+              src="./Asset 1.png" 
               alt="Agency Logo" 
               className={`h-10 w-auto transition-all duration-700 ${
                 shouldUseLightNav ? 'filter brightness-0' : 'filter brightness-0 invert'

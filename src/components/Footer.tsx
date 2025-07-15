@@ -41,7 +41,7 @@ const Footer = () => {
             <div className="lg:col-span-1">
               <div className="flex items-center mb-6">
                 <img 
-                  src="/Asset 1.png" 
+                  src="./Asset 1.png" 
                   alt="Agency Logo" 
                   className="h-10 w-auto mr-3 filter brightness-0"
                   onError={(e) => {
